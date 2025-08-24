@@ -3,7 +3,6 @@
 **Proyecto:** Generador Seguro de Contraseñas — Unidad 4
 
 **Desarrolado por:** 
-**Integrantes:**
 - Monica Chapaca Perez
 
 **Objetivo del programa:** Desarrollar un generador de contraseñas seguro, modular y didáctico que implemente y demuestre conocimientos de la Unidad 4 (Estructuras de datos: tuplas, listas, diccionarios; y Funciones: parámetros, ejecución y retornos). El programa debe garantizar la inclusión de cada categoría de caracteres seleccionada, estimar la entropía y facilitar opciones de copia y guardado.
